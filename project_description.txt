@@ -1,0 +1,3 @@
+This project is based on a Regression Problem of Predicting Boston Housing Prices based on limited number of features. 
+It makes use of DecisionTreeRegressor method from sklearn library with R2_Score as a metric for evaluation.
+Great project to understand the concepts of learning curves, bias-variance tradeoffs and hyperparameter tuning with hands-on experience.
